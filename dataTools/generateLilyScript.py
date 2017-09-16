@@ -19,13 +19,13 @@ def translateToNote(pitch):
 		return 'c'
 	elif (pitch - 1)%12 == 0:
 		#  C#
-		return 'c'
+		return 'cis'
 	elif (pitch - 2)%12 == 0:
 		#  D
 		return 'd'
 	elif (pitch - 3)%12 == 0:
 		#  D#
-		return 'd'
+		return 'dis'
 	elif (pitch - 4)%12 == 0:
 		#  E
 		return 'e'
@@ -34,19 +34,19 @@ def translateToNote(pitch):
 		return 'f'
 	elif (pitch - 6)%12 == 0:
 		#  F#
-		return 'f'
+		return 'fis'
 	elif (pitch - 7)%12 == 0:
 		#  G
 		return 'g'
 	elif (pitch - 8)%12 == 0:
 		#  G#
-		return 'g'
+		return 'gis'
 	elif (pitch - 9)%12 == 0:
 		#  A
 		return 'a'
 	elif (pitch - 10)%12 == 0:
 		#  A#
-		return 'a'
+		return 'ais'
 	elif (pitch - 11)%12 == 0:
 		#  B
 		return 'b'
@@ -102,6 +102,7 @@ for tracksNum in range (0, len(mf.tracks)):
     plt.show()
 
     filePath = '../sheet-scripts/sheetScript' + str(tracksNum) + '.ly'
+    print filePath
     text_file = open(filePath, 'w')
     text_file.write('{\n')
     for pitch in y:
