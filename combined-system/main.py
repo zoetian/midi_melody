@@ -8,7 +8,7 @@ from midiutil.MidiFile import MIDIFile
 
 from support.noteTranslation import *
 
-skipMidiConversion = True
+skipMidiConversion = False
 
 if not skipMidiConversion:
 	# First we convert Youtube video to mp3
