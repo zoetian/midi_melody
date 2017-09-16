@@ -128,27 +128,27 @@ for tracksNum in range (0, len(mf.tracks)):
 	else:
 		json_file.write(',{\n')
 
-	beginDeltaStr = '"begin_delta": ' + '"' + str(deltaBegin[count]) + '",\n'
+	beginDeltaStr = '"begin_delta": ' +  str(deltaBegin[count]) + ',\n'
 	json_file.write(beginDeltaStr)
 
-	endDeltaStr = '"end_delta": ' + '"' + str(deltaEnd[count]) + '",\n'
+	endDeltaStr = '"end_delta": ' + '' + str(deltaEnd[count]) + ',\n'
 	json_file.write(endDeltaStr)
 	
 
-	octaveStr = '"octave": ' + '"'+ str(octave) +'",\n'
+	octaveStr = '"octave": ' + ''+ str(octave) +',\n'
 	json_file.write(octaveStr)
 
 
-        keyTypeStr = '"keytype": ' + '"'+ str(blackWhiteCalculate(pitch)) +'",\n'
+        keyTypeStr = '"keytype": ' + str(blackWhiteCalculate(pitch)) +',\n'
 	json_file.write(keyTypeStr)
 
 
-        indexStr = '"globalIndex": ' + '"'+ str(pitch) +'",\n'
+        indexStr = '"globalIndex": ' + str(pitch) +',\n'
         json_file.write(indexStr)
 
 	relPitch = pitch%12
 
-        indexStr = '"relIndex": ' + '"'+ str(relPitch) +'"\n'
+        indexStr = '"relIndex": ' +  str(relPitch) +'\n'
         json_file.write(indexStr)
 
 
