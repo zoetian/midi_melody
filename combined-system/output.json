@@ -1,0 +1,1370 @@
+{"song":[
+{
+"begin_delta": "2645",
+"end_delta": "317",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "0",
+"end_delta": "298",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "248",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "351",
+"end_delta": "326",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "0",
+"end_delta": "310",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "305",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "61",
+"relIndex": "1"
+}
+,{
+"begin_delta": "1",
+"end_delta": "507",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "407",
+"end_delta": "276",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "73",
+"relIndex": "1"
+}
+,{
+"begin_delta": "39",
+"end_delta": "624",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "2129",
+"end_delta": "326",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "0",
+"end_delta": "298",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "298",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "0",
+"end_delta": "331",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1",
+"end_delta": "284",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "317",
+"end_delta": "293",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "73",
+"relIndex": "1"
+}
+,{
+"begin_delta": "866",
+"end_delta": "480",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1056",
+"end_delta": "223",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "66",
+"relIndex": "6"
+}
+,{
+"begin_delta": "964",
+"end_delta": "351",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "67",
+"relIndex": "7"
+}
+,{
+"begin_delta": "1178",
+"end_delta": "722",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "232",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "66",
+"relIndex": "6"
+}
+,{
+"begin_delta": "557",
+"end_delta": "231",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "549",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "956",
+"end_delta": "677",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "415",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "5",
+"end_delta": "650",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "218",
+"end_delta": "637",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "120",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "108",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "1",
+"end_delta": "510",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "360",
+"end_delta": "286",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "296",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "284",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "431",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "212",
+"end_delta": "237",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "700",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1028",
+"end_delta": "0",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "284",
+"end_delta": "395",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "71",
+"relIndex": "11"
+}
+,{
+"begin_delta": "184",
+"end_delta": "658",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "214",
+"end_delta": "283",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "284",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "298",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "2",
+"end_delta": "516",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "562",
+"end_delta": "226",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "204",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "5",
+"end_delta": "237",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "418",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "209",
+"end_delta": "229",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "71",
+"relIndex": "11"
+}
+,{
+"begin_delta": "206",
+"end_delta": "588",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "947",
+"end_delta": "627",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "120",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "76",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "112",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "75",
+"relIndex": "3"
+}
+,{
+"begin_delta": "0",
+"end_delta": "656",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "215",
+"end_delta": "636",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "117",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "0",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "112",
+"end_delta": "863",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "5",
+"end_delta": "290",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "292",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "1",
+"end_delta": "296",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "426",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "217",
+"end_delta": "1",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "225",
+"end_delta": "429",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "195",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "1104",
+"end_delta": "284",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "298",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "76",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "286",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "0",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "641",
+"end_delta": "223",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "0",
+"end_delta": "671",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "628",
+"end_delta": "452",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "0",
+"end_delta": "422",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "81",
+"relIndex": "9"
+}
+,{
+"begin_delta": "212",
+"end_delta": "218",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "638",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "0",
+"end_delta": "1047",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "928",
+"end_delta": "430",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "0",
+"end_delta": "434",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "83",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "632",
+"octave": "7",
+"keytype": "1",
+"globalIndex": "84",
+"relIndex": "0"
+}
+,{
+"begin_delta": "1",
+"end_delta": "679",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "1",
+"end_delta": "423",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "521",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "349",
+"end_delta": "431",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "538",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "73",
+"relIndex": "1"
+}
+,{
+"begin_delta": "552",
+"end_delta": "126",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "222",
+"end_delta": "315",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "225",
+"end_delta": "129",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "120",
+"end_delta": "158",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "661",
+"end_delta": "0",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "569",
+"end_delta": "383",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "61",
+"relIndex": "1"
+}
+,{
+"begin_delta": "564",
+"end_delta": "161",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "717",
+"end_delta": "144",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "68",
+"relIndex": "8"
+}
+,{
+"begin_delta": "827",
+"end_delta": "694",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "1",
+"end_delta": "1",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "275",
+"end_delta": "431",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "221",
+"end_delta": "222",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "627",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1087",
+"end_delta": "462",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "1",
+"end_delta": "200",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "229",
+"end_delta": "624",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "234",
+"end_delta": "638",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "115",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "111",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "0",
+"end_delta": "518",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "356",
+"end_delta": "288",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "292",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "287",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "429",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "212",
+"end_delta": "232",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "643",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1084",
+"end_delta": "289",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "1",
+"end_delta": "295",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "71",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "292",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "1",
+"end_delta": "643",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "218",
+"end_delta": "284",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "287",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "296",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "4",
+"end_delta": "706",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "376",
+"end_delta": "223",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "200",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "12",
+"end_delta": "231",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "418",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "214",
+"end_delta": "229",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "710",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1017",
+"end_delta": "345",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "1",
+"end_delta": "303",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "215",
+"end_delta": "641",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "237",
+"end_delta": "635",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "65",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "115",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "64",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "111",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "63",
+"relIndex": "3"
+}
+,{
+"begin_delta": "0",
+"end_delta": "652",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "220",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "0",
+"end_delta": "290",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "289",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "1",
+"end_delta": "384",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "337",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "218",
+"end_delta": "222",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "1",
+"end_delta": "599",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1136",
+"end_delta": "0",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "279",
+"end_delta": "298",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "76",
+"relIndex": "4"
+}
+,{
+"begin_delta": "0",
+"end_delta": "287",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "0",
+"end_delta": "0",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "641",
+"end_delta": "226",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "0",
+"end_delta": "774",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "513",
+"end_delta": "462",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "1",
+"end_delta": "309",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "81",
+"relIndex": "9"
+}
+,{
+"begin_delta": "0",
+"end_delta": "329",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "0",
+"end_delta": "214",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "632",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "1",
+"end_delta": "1070",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "77",
+"relIndex": "5"
+}
+,{
+"begin_delta": "909",
+"end_delta": "431",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "82",
+"relIndex": "10"
+}
+,{
+"begin_delta": "0",
+"end_delta": "434",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "83",
+"relIndex": "11"
+}
+,{
+"begin_delta": "1",
+"end_delta": "629",
+"octave": "7",
+"keytype": "1",
+"globalIndex": "84",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "725",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "79",
+"relIndex": "7"
+}
+,{
+"begin_delta": "1254",
+"end_delta": "429",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "72",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "491",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "73",
+"relIndex": "1"
+}
+,{
+"begin_delta": "252",
+"end_delta": "127",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "217",
+"end_delta": "125",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "69",
+"relIndex": "9"
+}
+,{
+"begin_delta": "206",
+"end_delta": "331",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "244",
+"end_delta": "144",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "78",
+"relIndex": "6"
+}
+,{
+"begin_delta": "89",
+"end_delta": "161",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+,{
+"begin_delta": "349",
+"end_delta": "298",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "0",
+"end_delta": "577",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "0",
+"end_delta": "390",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "61",
+"relIndex": "1"
+}
+,{
+"begin_delta": "558",
+"end_delta": "181",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "699",
+"end_delta": "145",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "68",
+"relIndex": "8"
+}
+,{
+"begin_delta": "190",
+"end_delta": "298",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "334",
+"end_delta": "686",
+"octave": "5",
+"keytype": "1",
+"globalIndex": "60",
+"relIndex": "0"
+}
+,{
+"begin_delta": "289",
+"end_delta": "432",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "55",
+"relIndex": "7"
+}
+,{
+"begin_delta": "204",
+"end_delta": "236",
+"octave": "4",
+"keytype": "0",
+"globalIndex": "59",
+"relIndex": "11"
+}
+,{
+"begin_delta": "0",
+"end_delta": "700",
+"octave": "5",
+"keytype": "0",
+"globalIndex": "62",
+"relIndex": "2"
+}
+,{
+"begin_delta": "1680",
+"end_delta": "214",
+"octave": "6",
+"keytype": "1",
+"globalIndex": "75",
+"relIndex": "3"
+}
+,{
+"begin_delta": "0",
+"end_delta": "156",
+"octave": "6",
+"keytype": "0",
+"globalIndex": "74",
+"relIndex": "2"
+}
+]}

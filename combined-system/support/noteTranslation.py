@@ -1,5 +1,18 @@
 import math
 
+def blackOrWhite(pitch):
+	if pitch == 2 or pitch == 4 or pitch == 7 or pitch == 9 or pitch == 11:
+		# black
+		return 0
+	else:
+		# white
+		return 1
+
+def blackWhiteCalculate(pitch):
+	octave = findOctave(pitch)
+	relPos = pitch - (octave*12)
+	return blackOrWhite(relPos)	
+
 def translateToNote(pitch):
 	if pitch%12 == 0:
 		#  C
