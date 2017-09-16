@@ -8,7 +8,7 @@ fp = '../output/vocaloid0.mid'
 
 
 
-printTrackInfo = True
+printTrackInfo = False
 tracknum = 1
 
 mf = music21.midi.MidiFile()
@@ -49,6 +49,8 @@ for tracksNum in range (0, len(mf.tracks)):
 
         count = count + 1
     
+
+
 
     plt.plot(x,y,'ro')
     plt.show()

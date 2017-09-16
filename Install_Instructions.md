@@ -1,5 +1,8 @@
 INSTALLATION INSTRUCTIONS
 
+Install youtube-dl
+"sudo pip install youtube-dl"
+
 Install this to convert mp3 to midi files
 https://github.com/justinsalamon/audio_to_midi_melodia
 
