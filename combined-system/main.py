@@ -73,6 +73,8 @@ for tracksNum in range (0, len(mf.tracks)):
 
     prevDelta = -1
 
+    totalDelta = 0
+
     for eventInd in range(0,numOfEvents):
         # Tracks
         track = mf.tracks[tracksNum].events[eventInd]
@@ -81,15 +83,17 @@ for tracksNum in range (0, len(mf.tracks)):
 	print track
 
         if trackType == 'NOTE_ON':
-	    deltaBegin.append(prevDelta)
             y.append(track.pitch)
             x.append(count)
 	
-	if trackType == 'NOTE_OFF':
-	    deltaEnd.append(prevDelta)
-
+	if trackType == 'NOTE_OFF':	
+	    deltaBegin.append(totalDelta - prevDelta)
+	    deltaEnd.append(totalDelta)
+	
 	if trackType == 'DeltaTime':
-		prevDelta = track.time
+		deltaTime = track.time
+		totalDelta = totalDelta + deltaTime
+		prevDelta = deltaTime
 
         prevPitch = track.pitch
 
@@ -108,6 +112,7 @@ for tracksNum in range (0, len(mf.tracks)):
     json_file.write('{"song":[\n')
 
     count = 0
+
     for pitch in y:
 	# Write ly file
 	note = translateToNote(pitch)
