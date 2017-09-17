@@ -107,6 +107,8 @@ for tracksNum in range (0, len(mf.tracks)):
     text_file = open(filePath, 'w')
     text_file.write('{\n')
 
+    js_file = open('../webui/json.js','w')
+    js_file.write('let notes = [\n')
 
     json_file = open('output.json','w')
     json_file.write('{"song":[\n')
@@ -125,35 +127,44 @@ for tracksNum in range (0, len(mf.tracks)):
 	# Write json file
 	if count == 0:
 		json_file.write('{\n')
+		js_file.write('{\n')
 	else:
 		json_file.write(',{\n')
+		js_file.write(',{\n')
 
 	beginDeltaStr = '"begin_delta": ' +  str(deltaBegin[count]) + ',\n'
 	json_file.write(beginDeltaStr)
+	js_file.write(beginDeltaStr)
 
 	endDeltaStr = '"end_delta": ' + '' + str(deltaEnd[count]) + ',\n'
 	json_file.write(endDeltaStr)
+	js_file.write(endDeltaStr)
 	
 
 	octaveStr = '"octave": ' + ''+ str(octave) +',\n'
 	json_file.write(octaveStr)
+	js_file.write(octaveStr)
 
 
         keyTypeStr = '"keytype": ' + str(blackWhiteCalculate(pitch)) +',\n'
 	json_file.write(keyTypeStr)
+	js_file.write(keyTypeStr)
 
 
         indexStr = '"globalIndex": ' + str(pitch) +',\n'
         json_file.write(indexStr)
+        js_file.write(indexStr)
 
 	relPitch = pitch%12
 
         indexStr = '"relIndex": ' +  str(relPitch) +'\n'
         json_file.write(indexStr)
+        js_file.write(indexStr)
 
 
 
     	json_file.write('}\n')
+    	js_file.write('}\n')
 
 	count = count + 1
 
@@ -161,7 +172,10 @@ for tracksNum in range (0, len(mf.tracks)):
 
 
     json_file.write(']}\n')
+    js_file.write('];\n')
+    
     json_file.close()
+    js_file.close()
 
     text_file.write('}')
     text_file.close()
