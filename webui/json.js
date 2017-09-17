@@ -1,4 +1,4 @@
-{"song":[
+let notes = [
 {
 "begin_delta": 1479,
 "end_delta": 2263,
@@ -2055,4 +2055,4 @@
 "globalIndex": 69,
 "relIndex": 9
 }
-]}
+];
