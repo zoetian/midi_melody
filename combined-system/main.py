@@ -8,14 +8,24 @@ from midiutil.MidiFile import MIDIFile
 
 from support.noteTranslation import *
 
+import sys
+
 skipMidiConversion = False
+
+outputJSON = None
 
 if not skipMidiConversion:
 	# First we convert Youtube video to mp3
 
+	print 'Working with ', sys.argv[1]
+	YT_URL = sys.argv[1]
+
+	outputJSON = sys.argv[2]
+
+	'''
 	print 'Paste the URL of the Youtube video and press [Enter]'
 	YT_URL = raw_input()
-
+	'''
 	os.system('rm -r bin')
 
 	os.makedirs('./bin')
@@ -107,7 +117,7 @@ for tracksNum in range (0, len(mf.tracks)):
     text_file = open(filePath, 'w')
     text_file.write('{\n')
 
-    js_file = open('../webui/json.js','w')
+    js_file = open(outputJSON,'w')
     js_file.write('let notes = [\n')
 
     json_file = open('output.json','w')

@@ -72,7 +72,7 @@ function extn(x,n)
 	return "0".repeat(n - a.length) + a;
 }
 
-let speed = 1;
+let speed = 0.2;
 let epoch = performance.now();
 let scale,octave_y,play_line;
 let octave_width,octave_height,white_key_width,black_key_width;
@@ -83,7 +83,7 @@ function repaint(time)
 	ctx.fillRect(0,0,canvas.width,canvas.height);
 	let white_note_color = "rgb(242,231,156)";
 	let black_note_color = "rgb(206,194,2)";
-	let delta_now = time - epoch;
+	let delta_now = (time - epoch)*1;
 	let black_key_press = [].fill(0,0,octaves*5);
 	let white_key_press = [].fill(0,0,octaves*7);
 	for(let i = 0;i < notes.length && notes[i].bdelta <= delta_now;i++)
@@ -101,7 +101,7 @@ function repaint(time)
 			let playing = ((delta_now - notes[i].bdelta) > play_line && (delta_now - notes[i].edelta) < play_line);
 			if(playing && !notes[i].audio)
 			{
-				(notes[i].audio = new Audio("piano/" + extn(notes[i].globalIndex,3) + ".wav")).play();
+				(notes[i].audio = new Audio("piano/" + extn(notes[i].globalIndex+1,3) + ".wav")).play();
 			}
 			white_key_press[notes[i].octave * 7 + notes[i].index] |= playing;
 		}
@@ -112,7 +112,7 @@ function repaint(time)
 			let playing = ((delta_now - notes[i].bdelta) > play_line && (delta_now - notes[i].edelta) < play_line);
 			if(playing && !notes[i].audio)
 			{
-				(notes[i].audio = new Audio("piano/" + extn(notes[i].globalIndex,3) + ".wav")).play();
+				(notes[i].audio = new Audio("piano/" + extn(notes[i].globalIndex+1,3) + ".wav")).play();
 			}
 			black_key_press[notes[i].octave * 5 + notes[i].index] |= playing;
 		}
