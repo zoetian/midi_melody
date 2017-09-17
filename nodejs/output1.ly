@@ -1,0 +1,2 @@
+{
+c'g'g'e'g'c'c'c'c'b'c'g'c'e'g'c'e'g'c'f'c'c'g'e'g'a'c'c'cis'c'e'g'c'g'e'a'c'g'b'f'a'c'f'a'c'g'b'd'c'g'd'e'a'c'g'g'a'g'd'g'c'a'c'g'c'e'd'a'c'e'g'g'a'a'g'a'g'a'a'g'a'c'g'a'e'g'f'c'e'c'f'a'd'g'd'g'c'g'e'a'c'g'e'g'b'f'c'e'c'f'a'f'g'c'g'g'a'e'a'c'e'g'f'c'f'c'd'd'g'c'g'g'e'c'e'g'b'f'c'f'c'f'g'c'g'g'd'a'e'a'c'e'g'c'a'f'c'e'c'f'a'f'd'd'g'd'c'g'd'g'd'g'a'e'e'g'c'a'f'c'e'g'f'g'd'g'a'g'a'b'a'g'a'c'g'g'e'c'e'}

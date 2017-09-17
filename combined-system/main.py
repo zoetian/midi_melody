@@ -8,7 +8,7 @@ from midiutil.MidiFile import MIDIFile
 
 from support.noteTranslation import *
 
-import sys
+import sys,os
 
 skipMidiConversion = False
 
@@ -21,6 +21,9 @@ if not skipMidiConversion:
 	YT_URL = sys.argv[1]
 
 	outputJSON = sys.argv[2]
+
+	print "Outfile: " + sys.argv[2]
+	print os.getcwd()
 
 	'''
 	print 'Paste the URL of the Youtube video and press [Enter]'
@@ -44,7 +47,7 @@ if not skipMidiConversion:
 
 
 	# Then we convert mp3 video to midi
-	os.system('python support/audio_to_midi_melodia.py bin/output.mp3 bin/output.mid 60 --smooth 0.25 --minduration 0.1 --jams')
+	os.system('python2 ' + os.path.dirname(os.path.realpath(__file__)) + '/support/audio_to_midi_melodia.py bin/output.mp3 bin/output.mid 60 --smooth 0.25 --minduration 0.1 --jams')
 
 
 
@@ -196,7 +199,7 @@ for tracksNum in range (0, len(mf.tracks)):
 print 'Generating music-sheet pdf. . .'
 
 # Activate the lilypond script to generate the file
-os.system('lilypond output0.ly')
+#os.system('lilypond output0.ly')
     
 
 
